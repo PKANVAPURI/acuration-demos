@@ -1,0 +1,1 @@
+A look at some of the documents used to create the document. The document was written in the form of a text file. The file was created using the language of the Unicode standard. It includes the terms "geographic" and "geography" The document also includes the language "geospatial"

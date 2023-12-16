@@ -1,0 +1,1 @@
+A look at some of the key words used to describe a stream of text in a document. The document is called "Guideline" and is made up of 3.5 million lines of text. The text includes the words:   “ ”  ”, “’’, ‘ ,  ’. “,” ‘,’  ,“” and “–” as well as the text of the document: ‘”.’,.’ ’- .”,.”-”;”’;’:

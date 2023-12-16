@@ -1,0 +1,1 @@
+The site is designed to make it easier for users to find and use content specific to their country. The site works best with javascript enabled. It is not possible to use this site without using a web browser that supports javascript. The web browser is very old and you may need to upgrade to a different browser to experience this site correctly.
