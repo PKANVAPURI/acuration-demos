@@ -15,3 +15,4 @@ def clean_html_and_extract_text(html_text):
     text = text.lower()
 
     return text
+

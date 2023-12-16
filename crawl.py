@@ -42,4 +42,3 @@ def crawl_url(url, output_folder):
         print(f"Failed to fetch content from {url}")
 
 
-
